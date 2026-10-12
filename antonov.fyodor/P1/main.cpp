@@ -2,7 +2,7 @@
 
 int main()
 {
-  int input;
+  int input = 0;
   int prev_input = 0;
   int sequence_len = 0;
 
