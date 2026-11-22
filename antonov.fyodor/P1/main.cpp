@@ -32,7 +32,7 @@ namespace antonov
 
   static bool increment(int &counter)
   {
-    if (counter == std::numeric_limits<int>::max())
+    if (counter == std::numeric_limits< int >::max())
     {
       return false;
     }
